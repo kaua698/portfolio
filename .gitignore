@@ -1,0 +1,8 @@
+node_modules
+dist
+*.local
+.DS_Store
+.claude/
+# prints originais em PNG (pesados); o site usa as versões .webp de public/projects
+prints-originais/
+*.tsbuildinfo
